@@ -1,0 +1,101 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 2000px;
+  height: 1200px;
+  overflow: hidden;
+  background-color: #A68F62;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.paper{
+  background-image: url("../images/paper.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 97%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+
+}
+
+.container {
+  position: absolute;
+  font-family: 'jua';
+  width: 97%;
+  height: 100%;
+  text-align: center;
+  line-height: 200px;
+  z-index: 1;
+}
+
+.results {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.results li {
+  margin: 10px 0;
+  font-size: 100px;
+}
+
+.label {
+  /* font-weight: bold; */
+  font-size: 100px;
+}
+
+.success {
+  color: black;
+}
+
+.failure {
+  color: red;
+  /* font-weight: bold; */
+}
+
+.explorer {
+  margin-top: 20px;
+  /* margin-left: -50px; */
+}
+
+.name-input {
+  display: inline-block;
+  border: none; /* 테두리 제거 */
+  width: 650px;
+  border-bottom: 3px solid #000000; /* 밑줄 추가 */
+  outline: none; /* 포커스 시 나타나는 윤곽선 제거 */
+  background-color: transparent; /* 배경색 투명하게 */
+  padding: 5px; /* 입력 영역 패딩 */
+  font-size: 100px;
+  font-family: 'jua';
+  text-align: center;
+}
+
+
+
+
+
+.n_click {
+  position: absolute;
+  right: 70px;
+  bottom: 20px;
+  width: 0;
+  height: 0;
+  border-bottom: 180px solid transparent;
+  border-top: 180px solid #A4662C;
+  border-left: 180px solid #A4662C;
+  border-right: 180px solid transparent;
+  display: inline-block;
+}
+
+.n_click .label {
+  color: white;
+  font-size: 80px;
+  position: absolute;
+  transform: translate(-100%, -90%);
+  white-space: nowrap; /* 추가 */
+}
+

@@ -1,0 +1,33 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: #F7FA79;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.start-button {
+  position: absolute;
+  padding: 10px 20px;
+  background: linear-gradient(to right, #FBFF4F 0%, #DCFF97 25%, #D6FF85 45%, #B7ED55 75%, #81FF00 100%);
+  border: none;
+  border-radius: 100px;
+  font-size: 100px;
+  cursor: pointer;
+  font-family: 'Jua', sans-serif;
+  bottom: 35%;
+  left: 50%;
+  transform: translateX(-50%);
+}
