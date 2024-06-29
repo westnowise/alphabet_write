@@ -1,3 +1,4 @@
+![알파벳 학습 콘텐츠 AI키즈WRITING](https://github.com/westnowise/alphabet_write/assets/156265926/6d7da5c0-6196-46bf-82dd-58b1279e6431)
 
 ## 📌 개요
 
