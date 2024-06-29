@@ -72,3 +72,7 @@ python manage.py runserver
 
 ---
 **프로젝트 구조**
+![알파벳 학습 콘텐츠 AI키즈WRITING (1)](https://github.com/westnowise/alphabet_write/assets/156265926/b448e72a-f0be-48a7-873d-6ace57e1c0b1)
+
+---
+**결과**
