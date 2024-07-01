@@ -76,3 +76,9 @@ python manage.py runserver
 
 ---
 **결과**
+
+![image](https://github.com/westnowise/alphabet_write/assets/156265926/2a095dbc-02f7-4b5d-b9c9-74c0a70159da)
+![image](https://github.com/westnowise/alphabet_write/assets/156265926/509bb341-2e59-4701-9857-1dfaf8844442)
+
+
+
